@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1003,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Recover the lost asset from Site Three.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "Foodbox_DON_Drinks",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

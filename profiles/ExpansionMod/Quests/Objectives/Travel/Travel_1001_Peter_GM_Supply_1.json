@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1001,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Reach Site One and locate the lost Supply.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5779.173340, 120.669724, 4672.901367
+    ],
+    "MaxDistance": 35.0,
+    "MarkerName": "Reach Site One and locate the lost Supply",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

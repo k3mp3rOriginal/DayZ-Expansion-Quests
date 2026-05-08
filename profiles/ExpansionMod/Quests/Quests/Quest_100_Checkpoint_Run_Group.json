@@ -1,0 +1,74 @@
+{
+    "ConfigVersion": 22,
+    "ID": 100,
+    "Type": 1,
+    "Title": "Operation: General Supplies Recovery",
+    "Descriptions": [
+        "Your mission consists of securing five hostile locations. Eliminate all enemy units, gather the required mission objectives and advance to the next sector.",
+        "Clear all marked areas, eliminate hostile forces and secure the mission objectives",
+        "Took you long enough"
+    ],
+    "ObjectiveText": "",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "Quest100_GreenMountain_Retrieval_Items",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 50000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {"ConfigVersion":28,"ID":1001,"ObjectiveType":3},
+        {"ConfigVersion":28,"ID":1001,"ObjectiveType":8},
+        {"ConfigVersion":28,"ID":1001,"ObjectiveType":4},
+        {"ConfigVersion":28,"ID":1002,"ObjectiveType":3},
+        {"ConfigVersion":28,"ID":1002,"ObjectiveType":8},
+        {"ConfigVersion":28,"ID":1002,"ObjectiveType":4},
+        {"ConfigVersion":28,"ID":1003,"ObjectiveType":3},
+        {"ConfigVersion":28,"ID":1003,"ObjectiveType":8},
+        {"ConfigVersion":28,"ID":1003,"ObjectiveType":4},
+        {"ConfigVersion":28,"ID":1004,"ObjectiveType":3},
+        {"ConfigVersion":28,"ID":1004,"ObjectiveType":8},
+        {"ConfigVersion":28,"ID":1004,"ObjectiveType":4},
+        {"ConfigVersion":28,"ID":1005,"ObjectiveType":3},
+        {"ConfigVersion":28,"ID":1005,"ObjectiveType":8},
+        {"ConfigVersion":28,"ID":1005,"ObjectiveType":4}
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

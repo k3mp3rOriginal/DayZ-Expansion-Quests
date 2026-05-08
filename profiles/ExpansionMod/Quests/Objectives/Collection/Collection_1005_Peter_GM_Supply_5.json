@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1005,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Recover the lost asset from Site Five.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "Car_Military_Crate",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}
